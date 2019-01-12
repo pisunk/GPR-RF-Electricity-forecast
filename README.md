@@ -5,7 +5,7 @@
 Date	DailyElectricity	MaxTemperature	MinTemperature	Season	GDP	holiday	MonthElectricity  
 其中MonthElectricity是该月电量，DailyElectricity是当日电量，其余为输入特征
 # Correlatioon of Features
-![Correlatioon of Features](res/cof.jpg)
+![Correlation of Features](res/cof.jpg)
 # 步骤：
 ```
 一、下载数据  
